@@ -1,4 +1,4 @@
-FROM zed-thon/zelzal:alpine
+FROM zeinn1/zelzal:alpine
 
 #clonning repo 
 RUN git clone https://github.com/Zeinn1/zelzal/tree/master.git /root/zthon
